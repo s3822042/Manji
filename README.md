@@ -1,4 +1,4 @@
-# Manji ![50](https://user-images.githubusercontent.com/7277662/108042074-33ff3a00-6ff4-11eb-91b6-713e33d57873.png)
+# Flutter Manji
 
 ![iOS](https://img.shields.io/badge/iOS-11%20-blue)
 [![App Store](https://img.shields.io/itunes/v/1464774967?label=App%20Store)](https://apps.apple.com/us/app/manji-learn-kanji/id1464774967#?platform=iphone)
@@ -26,8 +26,6 @@ On the surface, Manji is just a Japanese dictionary, but it can actually do more
 - Image kanji extraction
 - Kanji card
 - Kanji quiz generated dynamically based on selected groups of kanji
-
-Therotically, Manji is cross-platform since it is powered by Flutter, but since I want to maximize the elegance of its user experience and also because I am an Apple fanboy to some degree, I chose to focus on the iOS side. I have already forgotten when the last time was that I debugged and tested on Android but feel free if you want to make it work and optimize for Android.
 
 ## Getting Started
 
@@ -57,5 +55,5 @@ final credentials = ServiceAccountCredentials.fromJson(r'''
 
 5. [Setup Firebase for your project.](https://console.firebase.google.com/)
 6. (iOS) Download your `GoogleService-Info.plist` and move it to Manji/ios/Runner/.
-6. (Android) Download your `google-services.json` and move it to Manji/android/app/.
-7. Run the project using `flutter run`.
+7. (Android) Download your `google-services.json` and move it to Manji/android/app/.
+8. Run the project using `flutter run`.
