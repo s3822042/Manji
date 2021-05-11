@@ -1,11 +1,6 @@
-# Flutter Manji
+# Flutter Kanji
 
-![iOS](https://img.shields.io/badge/iOS-11%20-blue)
-[![App Store](https://img.shields.io/itunes/v/1464774967?label=App%20Store)](https://apps.apple.com/us/app/manji-learn-kanji/id1464774967#?platform=iphone)
-[![App Store](https://img.shields.io/badge/Price-Free-orange)](https://img.shields.io/badge/Price-Free-orange)
-[![Play Store](https://img.shields.io/badge/Play%20Store--yellow)](https://play.google.com/store/apps/details?id=jiaqifeng.kanji_dictionary)
-[![Visits Badge](https://badges.pufler.dev/visits/livinglist/Manji)](https://badges.pufler.dev)
-[![GitHub](https://img.shields.io/github/stars/livinglist/Manji?style=social)](https://img.shields.io/github/stars/livinglist/Manji?style=social)
+This project is to create mobile application to learn Kanji
 
 <p align="center">
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/90493962-d5660b80-e0f7-11ea-9971-dba0951fd60e.png">
